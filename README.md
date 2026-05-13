@@ -18,9 +18,7 @@ To understand the OSI Model and observe how common networking commands interact 
 #  OSI Model Overview
 
 | Layer | Name | Main Function |
-
 |---|---|---|
-
 | 7 | Application | User-facing network services |
 | 6 | Presentation | Encryption and formatting |
 | 5 | Session | Maintains communication sessions |
