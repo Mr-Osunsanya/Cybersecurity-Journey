@@ -29,9 +29,8 @@ By completing this lab, the following goals are achieved:
 
 ---
 
-## 🛠 Tools Used
-
-- :contentReference[oaicite:0]{index=0} (packet capture tool)  
+## Tools Used
+ 
 - Ubuntu Terminal (Bash shell)  
 - Web browser (Firefox/Chrome)  
 - Network utilities:
