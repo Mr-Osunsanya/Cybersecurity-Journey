@@ -1,0 +1,25 @@
+#  Day 5 Advanced Nmap & Enumeration
+
+## What I Practiced Today
+
+Today focused on advanced network reconnaissance using Nmap. The goal was to understand how systems expose services, ports, and operating system details through scanning techniques.
+
+---
+
+##  Commands Used
+
+###  Basic Localhost Scan
+
+- nmap localhost
+
+### Service detection scan
+
+- sudo nmap -sV localhost
+
+### Operation service detection scan
+
+- sudo nmap -O localhost
+
+### Enumeration scan
+
+- sudo nmap -A localhost 
