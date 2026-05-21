@@ -1,0 +1,28 @@
+# Day 5 File System navigation 
+
+### Commands Used
+
+## File creation 
+
+- 'touch test.txt'
+
+## Folder creation
+
+- 'mdkir'
+- 'cd' allows the movemet between directories
+
+## File inspection
+
+- 'ls' This list all files in the folder
+- 'ls -l' This gives details on the file in the folder including the dates, time etc.
+- 'ls -la' This allows inspection of the files in more details.
+
+## File permissions
+
+- 'sudo chmod +x test.txt'
+
+## File ownerships
+
+- 'sudo chown test.txt'
+
+
