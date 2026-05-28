@@ -1,4 +1,4 @@
-#  Day 3 — TCP/IP Model & TCP vs UDP
+#  Day 7 & 8 — TCP/IP Model & TCP vs UDP
 
 ---
 

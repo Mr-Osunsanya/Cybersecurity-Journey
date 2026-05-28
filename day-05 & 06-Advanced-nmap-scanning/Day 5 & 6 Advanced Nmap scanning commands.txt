@@ -1,4 +1,4 @@
-#  Day 4 Advanced Nmap & Enumeration
+#  Day 5 & 6 Advanced Nmap & Enumeration
 
 ## What I Practiced Today
 

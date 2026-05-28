@@ -1,6 +1,6 @@
 #  Cybersecurity Learning Journey
 
-##  Day 1 — Introduction to LAN
+##  Day 1 & 2 — Introduction to LAN
 
 ---
 

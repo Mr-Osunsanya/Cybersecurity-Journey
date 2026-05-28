@@ -1,4 +1,4 @@
-# Day 6 — Linux File System & Permissions
+# Day 6 & 7 — Linux File System & Permissions
 
 ---
 

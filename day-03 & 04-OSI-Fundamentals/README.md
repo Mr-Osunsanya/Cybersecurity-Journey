@@ -1,4 +1,4 @@
-#  Day 2 — OSI Model Fundamentals
+#  Day 3 & 4 — OSI Model Fundamentals
 
 ---
 

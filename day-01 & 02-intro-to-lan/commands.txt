@@ -1,4 +1,4 @@
-## Day 1 -Into to Local Area Network(LAN)
+## Day 1 & 2 -Into to Local Area Network(LAN)
 
 ##  Commands Used
 
