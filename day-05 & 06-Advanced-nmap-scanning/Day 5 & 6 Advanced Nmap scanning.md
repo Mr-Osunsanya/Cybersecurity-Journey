@@ -31,7 +31,7 @@ The goal is to understand how cybersecurity professionals identify vulnerabiliti
 ## Obeservations and Understanding
 
 1. NMAP SCANNING
-Runnig the command to scan for ports. I understood that localhost Nmap scan is a basic way to check what services are running on your own computer. When you run nmap localhost, it shows the open ports and tells you which services are currently active. This helps you understand what your system is exposing and what could potentially communicate over the network.
+Runnig the command to scan for ports. I understood that localhost Nmap scan is a basic way to check what services are running on your own computer. When you run nmap localhost, it shows the open ports and tells you which services are currently active. This helps understand what your system is exposing and what could potentially communicate over the network.
 
 2. SERVICE VERSION DETECTION
 When I ran nmap -sV localhost, it goes a step further by identifying the specific service and its version running on each open port. For example, it can tell you not just that SSH is running, but the exact software version of SSH.

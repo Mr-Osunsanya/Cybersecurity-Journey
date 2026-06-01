@@ -34,6 +34,3 @@ To understand the OSI Model and observe how common networking commands interact 
 #  Practical Exercises & Layer Analysis
 
 ##  Connectivity Testing — `ping`
-
-```bash
-ping google.com

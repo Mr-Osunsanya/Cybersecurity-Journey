@@ -1,10 +1,10 @@
 ## Day 1 & 2 -Into to Local Area Network(LAN)
 
-##  Commands Used
+### Commands Used
 
 ### Network Configuration
-**Command:** `ipconfig`  
-**Outcome:** Retrieved local IP address, subnet mask, and default gateway.
+**Command: `ipconfig`  
+**Outcome: Retrieved local IP address, subnet mask, and default gateway.
 
  Evidence:  
 screenshots/day-01/ipconfig.png  
@@ -34,4 +34,4 @@ screenshots/day-01/nslookup.png
 **Outcome:** Identified the route taken by packets through multiple network hops.
 
  Evidence:  
-screenshots/day-01/tracert.png  
+screenshots/day-01 & -02 
