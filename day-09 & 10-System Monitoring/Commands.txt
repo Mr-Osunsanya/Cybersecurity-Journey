@@ -1,0 +1,9 @@
+ps:Lists processes associated with the current terminal session.
+
+ps aux:Displays detailed information about all running processes
+
+top: Monitors CPU, memory, and processes in real time.
+
+htop: Interactive process viewer with an improved interface (if installed).
+
+systemctl status ssh: Displays the status of the SSH service (replace ssh with another service if needed).
